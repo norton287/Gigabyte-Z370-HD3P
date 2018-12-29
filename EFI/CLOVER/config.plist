@@ -184,7 +184,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 darkwake=1 kext-dev-mode=1 keepsyms=1 debug=0x100</string>
+		<string>dart=0 darkwake=1 -v keepsyms=1 debug=0x100 kext-dev-mode=1 -shikivga</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -226,6 +226,20 @@
 		</dict>
 		<key>HDMIInjection</key>
 		<false/>
+		<key>Properties</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>
+				AwCSPg==
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+			</dict>
+		</dict>
 		<key>USB</key>
 		<dict>
 			<key>FixOwnership</key>
@@ -281,10 +295,12 @@
 			<key>ATI</key>
 			<false/>
 			<key>Intel</key>
-			<false/>
+			<true/>
 			<key>NVidia</key>
 			<false/>
 		</dict>
+		<key>ig-platform-id</key>
+		<string>0x3E920003</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -367,6 +383,8 @@
 		<string>Mac-BE088AF8C5EB4FA2</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>C02TH25SJ1GJ9GYA8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -393,6 +411,10 @@
 		<string>0x00</string>
 		<key>ProductName</key>
 		<string>iMac18,3</string>
+		<key>SerialNumber</key>
+		<string>C02TH25SJ1GJ</string>
+		<key>SmUUID</key>
+		<string>E65B83AA-379F-4066-B4FF-6FC8143D4C49</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
