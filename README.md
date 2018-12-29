@@ -1,2 +1,2 @@
 # Gigabyte-Z370-HD3P
-DSDT and Clover EFI Folder
+SSDT for USB and Clover EFI Folder
