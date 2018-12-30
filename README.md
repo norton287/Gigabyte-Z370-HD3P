@@ -1,2 +1,7 @@
 # Gigabyte-Z370-HD3P
-SSDT for USB and Clover EFI Folder
+SSDT for USBInjectAll and Clover EFI Folder for Gigabyte Z370 HD3P with an I7-8700K CPU.
+
+I am using a *Saphire RX580 Pulse* video card and have the iGPU configured to run headless.
+
+
+
