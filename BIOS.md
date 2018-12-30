@@ -1,6 +1,5 @@
-# #BIOS Settings #
+# BIOS Settings #
 
-----------
 
 Under the M.I.T. tab i set my CPU and memory profiles like so:
 
