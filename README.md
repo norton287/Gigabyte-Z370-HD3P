@@ -5,7 +5,7 @@ I am using a ***Sapphire RX580 Pulse*** video card and have the iGPU configured 
 
 Here is my hardware installed:
 
-- I7-8700K CPU
+- I7-8700K CPU (Overclocked to 4.9Ghz)
 - Kingston Technology HyperX Fury Black 32GB 2666MHz DDR4 CL16 DIMM Kit of 2 (HX426C16FBK2/32)
 - Samsung 970 EVO 1TB NVMe PCIe M.2 2280 SSD (MZ-V7E1T0BW) (Primary macOS drive)
 - 2 Samsung 960 EVO 1TB SSD (One for Windows and the other for my second macOS installation)
