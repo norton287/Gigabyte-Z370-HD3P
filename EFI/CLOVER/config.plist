@@ -176,6 +176,7 @@
 			<string>SSDT-8.aml</string>
 			<string>SSDT-9.aml</string>
 			<string>SSDT-10.aml</string>
+			<string>SSDT-11.aml</string>
 			<string>SSDT-UIAC.aml</string>
 		</array>
 		<key>smartUPS</key>
@@ -336,26 +337,6 @@
 				<key>Replace</key>
 				<data>
 				SW50ZXJuYWw=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Change 15 port limit to 24 in XHCI kext 10.14</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				g/sPD4MDBQAA
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>MatchOS</key>
-				<string>10.14.x</string>
-				<key>Name</key>
-				<string>com.apple.driver.usb.AppleUSBXHCI</string>
-				<key>Replace</key>
-				<data>
-				g/sPkJCQkJCQ
 				</data>
 			</dict>
 		</array>
