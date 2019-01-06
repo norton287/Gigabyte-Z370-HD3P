@@ -16,4 +16,4 @@ For my BIOS settings see the [BIOS](BIOS.md) readme.
 
 ##macOS BETA Installation
 
-I have my second SSD setup to run the beta releases of macOS.  It is currently on macOS 10.13.3 beta and doing well.  No problems have been found yet with my current kexts and clover settings.
+I have my second SSD setup to run the beta releases of macOS.  It is currently on macOS 10.14.3 beta and doing well.  No problems have been found yet with my current kexts and clover settings.
