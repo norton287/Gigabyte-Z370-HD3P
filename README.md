@@ -12,8 +12,8 @@ Here is my hardware installed:
 - Cooler Master Hyper 212 Evo (RR-212E-20PK-R2) CPU Cooler with PWM Fan, Four Direct Contact Heat Pipes
 - Rosewill Gaming ATX Full Tower Computer Case Cases THOR V2 Black
 
-For my BIOS settings see the [BIOS](BIOS.md) readme.
+For my BIOS settings see the [BIOS](BIOS.md) settings information.
 
-##macOS BETA Installation
+## macOS BETA Installation
 
 I have my second SSD setup to run the beta releases of macOS.  It is currently on macOS 10.14.3 beta and doing well.  No problems have been found yet with my current kexts and clover settings.
