@@ -9,6 +9,7 @@ Here is my hardware installed:
 - Kingston Technology HyperX Fury Black 32GB 2666MHz DDR4 CL16 DIMM Kit of 2 (HX426C16FBK2/32)
 - Samsung 970 EVO 1TB NVMe PCIe M.2 2280 SSD (MZ-V7E1T0BW) (Primary macOS drive)
 - 2 Samsung 960 EVO 1TB SSD (One for Windows and the other for my second macOS installation)
+- PCI-E Wifi Adapter BCM943602CD– 802.11 a/b/g/n/ac
 - Cooler Master Hyper 212 Evo (RR-212E-20PK-R2) CPU Cooler with PWM Fan, Four Direct Contact Heat Pipes
 - Rosewill Gaming ATX Full Tower Computer Case Cases THOR V2 Black
 
