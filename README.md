@@ -1,5 +1,5 @@
 # Gigabyte-Z370-HD3P
-SSDT for USBInjectAll and Clover EFI Folder for Gigabyte **Z370 HD3P** with an **I7-8700K** CPU.  I am currently running the **F10** bios with no problems with macOS 10.14.2 installed.  Sleep/Wake works well and I have Power Nap running as well.
+SSDT for USBInjectAll and Clover EFI Folder for Gigabyte **Z370 HD3P** with an **I7-8700K** CPU.  I am currently running the **F10** bios with no problems with macOS 10.14.3 installed.  Sleep/Wake works well and I have Power Nap running as well.
 
 I am using a ***Sapphire RX580 Pulse*** video card and have the iGPU configured to run headless.
 
@@ -17,4 +17,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.
 
 ## macOS BETA Installation
 
-I have my second SSD setup to run the beta releases of macOS.  It is currently on macOS 10.14.3 beta and doing well.  No problems have been found yet with my current kexts and clover settings.
+I have my second SSD setup to run the beta releases of macOS.  It is currently on macOS 10.14.4 beta and doing well.  No problems have been found yet with my current kexts and clover settings.
