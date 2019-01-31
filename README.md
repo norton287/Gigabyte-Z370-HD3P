@@ -15,3 +15,6 @@ Here is my hardware installed:
 
 For my BIOS settings see the [BIOS](BIOS.md) settings information.  I would not update to the F11b BIOS as I have not been able to get my system to boot with it at all.
 
+## macOS Beta
+
+I am running macOS Beta 10.14.4 on my secondary installation without any issues so far.
