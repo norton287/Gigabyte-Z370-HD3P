@@ -13,7 +13,7 @@ Here is my hardware installed:
 - Cooler Master Hyper 212 Evo (RR-212E-20PK-R2) CPU Cooler with PWM Fan, Four Direct Contact Heat Pipes
 - Rosewill Gaming ATX Full Tower Computer Case Cases THOR V2 Black
 
-For my BIOS settings see the [BIOS](BIOS.md) settings information.  I would not update to the F11b BIOS as I have not been able to get my system to boot with it at all.
+For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released the F11 bios this month, and like F11b it does not boot with an M.2 NVME drive.  The macOS NVME driver fails to load on boot.
 
 ## macOS Beta
 
