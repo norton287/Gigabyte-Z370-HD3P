@@ -1,6 +1,8 @@
 # Gigabyte-Z370-HD3P
 SSDT for USBInjectAll and Clover EFI Folder for Gigabyte **Z370 HD3P** with an **I7-8700K** CPU.  I am currently running the **F10** bios with no problems with macOS 10.14.4 installed.  Sleep/Wake works well and I have Power Nap running as well.
 
+**To upgrade to macOS 10.4.4 with IGPU running in headless with a discrete GPU as your main driver, you need to delete the device entry in your config.plist and remove the Platform ID.  Also, you want to check Inject Intel as well.**
+
 I am using a ***Sapphire RX580 Pulse*** video card and have the iGPU configured to run headless.
 
 Here is my hardware installed:
@@ -17,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS Beta 10.14.4 on my secondary installation without any issues so far.
+I am running macOS Beta 10.14.5 on my secondary installation without any issues so far.
