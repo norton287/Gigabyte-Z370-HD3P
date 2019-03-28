@@ -227,20 +227,6 @@
 		</dict>
 		<key>HDMIInjection</key>
 		<false/>
-		<key>Properties</key>
-		<dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
-			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>
-				AwCSPg==
-				</data>
-				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-			</dict>
-		</dict>
 		<key>USB</key>
 		<dict>
 			<key>FixOwnership</key>
@@ -300,8 +286,6 @@
 			<key>NVidia</key>
 			<false/>
 		</dict>
-		<key>ig-platform-id</key>
-		<string>0x3E920003</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
