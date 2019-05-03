@@ -137,6 +137,8 @@
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
+			<key>SlpSmiAtWake</key>
+			<true/>
 		</dict>
 		<key>DropTables</key>
 		<array>
@@ -166,17 +168,18 @@
 		<key>SortedOrder</key>
 		<array>
 			<string>DSDT.aml</string>
-			<string>SSDT-1.aml</string>
-			<string>SSDT-2.aml</string>
-			<string>SSDT-3.aml</string>
-			<string>SSDT-4.aml</string>
-			<string>SSDT-5.aml</string>
-			<string>SSDT-6.aml</string>
-			<string>SSDT-7.aml</string>
-			<string>SSDT-8.aml</string>
-			<string>SSDT-9.aml</string>
-			<string>SSDT-10.aml</string>
-			<string>SSDT-11.aml</string>
+			<string>SSDT-0-A M I.aml</string>
+			<string>SSDT-1-A M I.aml</string>
+			<string>SSDT-2-A M I.aml</string>
+			<string>SSDT-3-A M I.aml</string>
+			<string>SSDT-4-A M I.aml</string>
+			<string>SSDT-5-A M I.aml</string>
+			<string>SSDT-6-A M I.aml</string>
+			<string>SSDT-7-A M I.aml</string>
+			<string>SSDT-8-A M I.aml</string>
+			<string>SSDT-9-A M I.aml</string>
+			<string>SSDT-10-A M I.aml</string>
+			<string>SSDT-11-A M I.aml</string>
 			<string>SSDT-UIAC.aml</string>
 		</array>
 		<key>smartUPS</key>
@@ -185,7 +188,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 darkwake=1 -v keepsyms=1 debug=0x100 kext-dev-mode=1 -shikivga</string>
+		<string>dart=0 darkwake=1 -v keepsyms=1 debug=0x100 kext-dev-mode=1</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -195,7 +198,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>7</integer>
 		<key>XMPDetection</key>
 		<integer>1</integer>
 	</dict>
@@ -243,6 +246,8 @@
 	</array>
 	<key>GUI</key>
 	<dict>
+		<key>CustomIcons</key>
+		<false/>
 		<key>Hide</key>
 		<array>
 			<string>Windows</string>
@@ -273,7 +278,7 @@
 		<key>ScreenResolution</key>
 		<string>2560x2048</string>
 		<key>Theme</key>
-		<string>Carbon</string>
+		<string>Mojave4k</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -348,8 +353,6 @@
 		<string>Mac-BE088AF8C5EB4FA2</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string></string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -376,10 +379,6 @@
 		<string>0x00</string>
 		<key>ProductName</key>
 		<string>iMac18,3</string>
-		<key>SerialNumber</key>
-		<string></string>
-		<key>SmUUID</key>
-		<string></string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
