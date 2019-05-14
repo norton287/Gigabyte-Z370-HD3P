@@ -19,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.14.5 Developer Beta 5 on my secondary installation without any issues so far.
+I am running macOS 10.14.5 Developer Beta on my secondary installation without any issues so far.
