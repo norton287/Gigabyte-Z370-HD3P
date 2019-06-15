@@ -19,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.14.6 Developer Beta 1 on my secondary installation without any issues so far.
+I am running macOS 10.15 Developer Beta on my secondary installation with some issues so far.  Not getting 4K output from my RX 580 with the latest patches for WhateverGreen and Lilu for 10.15.  Also, the headless configuration of my headless setup of the iGPU is not working as well with those patches.  Hopefully they'll resolve them soon, other than that it is a nice upgrade.
