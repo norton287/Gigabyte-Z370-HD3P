@@ -19,6 +19,6 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.15 Developer Beta 6 on my secondary installation with some issues so far.  Not getting 4K output from my RX 580 with the latest patches for WhateverGreen and Lilu for 10.15.  Also, the headless configuration of my headless setup of the iGPU is not working as well with those patches.  Hopefully they'll resolve them soon, other than that it is a nice upgrade.
+I am running macOS 10.15 Developer Beta 7 on my secondary installation with some issues so far.  Not getting 4K output from my RX 580 with the latest patches for WhateverGreen and Lilu for 10.15.  Also, the headless configuration of my headless setup of the iGPU is not working as well with those patches.  Hopefully they'll resolve them soon, other than that it is a nice upgrade.
 
 I was able to scale the display to 4K but it is on at 30hz instead of 60hz like I get in Mojave
