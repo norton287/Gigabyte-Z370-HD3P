@@ -19,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.15 Developer Beta 8 on my secondary installation with some issues so far.  Catalina is not detecting my 4K TV so it only allows scaling.  I installed switchresx and I can set it to 4k at 30hz.  Hopefully they will add support for TVs as monitors soon.
+I am running macOS 10.15 Developer Beta 9 on my secondary installation with some issues so far.  Catalina is not detecting my 4K TV so it only allows scaling.  I installed switchresx and I can set it to 4k at 30hz.  Hopefully they will add support for TVs as monitors soon.
