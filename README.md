@@ -19,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.15.1 on my secondary installation with some issues so far. I was able to get 4k with using the pikera flag for the agdpmod boot argument.
+I am running macOS 10.15.2 Beta Preview 1 on my secondary installation.  With no issues, I just had to enable the bootflag 'agdpmod=pikera' to enable 4k.
