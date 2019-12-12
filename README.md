@@ -1,5 +1,5 @@
 # Gigabyte-Z370-HD3P
-SSDT for USBInjectAll and Clover Config.plist I am using for Gigabyte **Z370 HD3P** with an **I7-8700K** CPU.  I am currently running the **F10** bios with no problems with macOS 10.15.1 installed.  Sleep/Wake works well and I have Power Nap running as well.
+SSDT for USBInjectAll and Clover Config.plist I am using for Gigabyte **Z370 HD3P** with an **I7-8700K** CPU.  I am currently running the **F10** bios with no problems with macOS 10.15.2 installed.  Sleep/Wake works well and I have Power Nap running as well.
 
 **To upgrade to macOS 10.4.4 with IGPU running in headless with a discrete GPU as your main driver, you need to delete the device entry in your config.plist and remove the Platform ID.  Also, you want to check Inject Intel as well.**
 
@@ -19,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.15.2 Beta 3 on my secondary installation.  With no issues so far, I just had to enable the bootflag *'agdpmod=pikera'* to enable 4k.
+I am running macOS 10.15.2 on my secondary installation.  With no issues so far, I just had to enable the bootflag *'agdpmod=pikera'* to enable 4k.
