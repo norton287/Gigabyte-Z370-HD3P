@@ -19,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.15.4 Developer Beta 4 on my secondary installation.  With no issues so far, I just had to enable the bootflag *'agdpmod=pikera'* to enable 4k.
+I am running macOS 10.15.3 now since updates to the different betas of 10.15.4 is so problematic
