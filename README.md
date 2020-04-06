@@ -20,3 +20,5 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 ## macOS Beta
 
 I am running macOS 10.5.5 Developer Beta 1 now since resolving how to do the update when it fails to present the PreBooter for install.
+
+To update to the 10.5.5 beta 1 just boot to clover and press F11 to clear NVRAM.  Then boot into macos and let the System Preference Updater download and start the install.  Reboot and you should see the PreBooter with the Install macOS signature.
