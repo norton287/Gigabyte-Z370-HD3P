@@ -19,4 +19,4 @@ For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released 
 
 ## macOS Beta
 
-I am running macOS 10.5.6 Developer Beta 2 now.
+I am running macOS 10.5.6 Developer Beta 3 now on my Beta drive installed in my system.
