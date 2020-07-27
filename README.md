@@ -15,6 +15,8 @@ Here is my hardware installed:
 
 For my BIOS settings see the [BIOS](BIOS.md) settings information.  GA released the F12 bios last month, and like F11b it does not boot with an M.2 NVME drive.  The macOS NVME driver fails to load on boot.
 
+I am now running OpenCore 0.6.0 and have uploaded my EFI folder here with all my files.  If you want to use it then edit the config.plist and under Platform enter your machines serial number and motherboard serial as well.  It works well and allowed me to install Big Sur Beta 3 with hardly any problems.
+
 ## macOS Beta
 
 I am running macOS Big Sur Beta 3 Release now on my Beta drive installed in my system.
