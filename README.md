@@ -19,4 +19,4 @@ I am now running OpenCore 0.6.0 and have uploaded my EFI folder here with all my
 
 ## macOS Beta
 
-I am running macOS Big Sur Beta 5 Release now on my Beta drive installed in my system.
+I am running macOS Big Sur Beta 6 Release now on my Beta drive installed in my system.
