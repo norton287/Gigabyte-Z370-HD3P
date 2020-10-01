@@ -1,5 +1,5 @@
 # Gigabyte-Z370-HD3P
-SSDT for USBInjectAll and **OpenCore EFI** I am using for Gigabyte **Z370 HD3P** with an **I7-8700K** CPU.  I am currently running the **F10** bios with no problems with macOS 10.15.6 installed.  Sleep/Wake works well and I have Power Nap running as well.
+SSDT for USBInjectAll and **OpenCore EFI** I am using for Gigabyte **Z370 HD3P** with an **I7-8700K** CPU.  I am currently running the **F10** bios with no problems with macOS 10.15.7 installed.  Sleep/Wake works well and I have Power Nap running as well.
 
 I am using a ***Sapphire RX580 Pulse*** video card and have the iGPU configured to run headless.
 
@@ -19,4 +19,4 @@ I am now running OpenCore 0.6.0 and have uploaded my EFI folder here with all my
 
 ## macOS Beta
 
-I am running macOS Big Sur Beta 8 Release now on my Beta drive installed in my system.
+I am running macOS Big Sur Beta 9 Release now on my Beta drive installed in my system.
